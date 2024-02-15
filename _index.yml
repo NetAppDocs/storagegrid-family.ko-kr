@@ -1,0 +1,42 @@
+---
+product-family:
+  title: StorageGRID 설명서
+  lead: NetApp StorageGRID는 퍼블릭, 프라이빗 및 하이브리드 멀티 클라우드 환경에서 다양한 사용 사례를 지원하는 소프트웨어 정의
+    오브젝트 스토리지 제품군입니다. StorageGRID은 Amazon S3 API를 기본적으로 지원하며 자동화된 라이프사이클 관리와 같은 업계
+    최고의 혁신 기능을 제공하여 비정형 데이터를 장기적으로 비용 효율적으로 저장, 보호 및 보존합니다.
+  summary: NetApp StorageGRID는 퍼블릭, 프라이빗 및 하이브리드 멀티 클라우드 환경에서 다양한 사용 사례를 지원하는 소프트웨어
+    정의 오브젝트 스토리지 제품군입니다. StorageGRID은 Amazon S3 API를 기본적으로 지원하며 자동화된 라이프사이클 관리와 같은
+    업계 최고의 혁신 기능을 제공하여 비정형 데이터를 장기적으로 비용 효율적으로 저장, 보호 및 보존합니다.
+  sidebarlinks:
+  - title: 모두
+    tags: all
+    class: active
+  - title: 시작하십시오
+    tags: get_started
+  - title: 소프트웨어를 구성하고 사용합니다
+    tags: storagegrid
+  - title: 어플라이언스를 설치하고 유지 관리합니다
+    tags: appliances
+  - title: 통합 및 지원
+    tags: enable
+  tiles:
+  - title: StorageGRID에 대해 자세히 알아보십시오
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: StorageGRID에 대해 자세히 알아보십시오.
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: StorageGRID 11.8 설명서
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: StorageGRID 11.8 소프트웨어를 구성하고 사용합니다.
+    tags: all, storagegrid
+  - title: StorageGRID 어플라이언스
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: StorageGRID 어플라이언스를 설치 및 유지 관리합니다.
+    tags: all, appliances
+  - title: StorageGRID를 활성화합니다
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: StorageGRID를 테스트, 통합 및 사용하도록 설정합니다.
+    tags: all, enable
