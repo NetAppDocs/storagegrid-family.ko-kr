@@ -5,9 +5,6 @@
   <block id="4103efcb405cc1121103531bf09c715d" category="paragraph">StorageGRID는 비정형 데이터를 대규모로 저장할 수 있는 안전하고 내구성 있는 스토리지를 제공합니다. 메타데이터 중심의 통합 라이프사이클 관리 정책은 라이프사이클 전반에서 데이터 위치를 최적화합니다. 콘텐츠가 적절한 위치에 적시에 적절한 스토리지 계층에 배치되어 비용을 절감합니다.</block>
   <block id="2ba3c537f55a653f682dcc17939b5db3" category="paragraph">StorageGRID는 지리적으로 분산된 이중화, 이기종 노드로 구성되며, 기존 및 차세대 클라이언트 애플리케이션과 모두 통합할 수 있습니다.</block>
   <block id="8eec3f2e5c96b2a164209e8f32f4ee0f" category="section-title">StorageGRID의 이점</block>
-  <block id="71f7459e7e82312f4969ac698c7c0434" category="paragraph">StorageGRID 시스템의 장점은 다음과 같습니다.</block>
-  <block id="9bcc6b6f2deb9d2acce755b03630840c" category="list-text">비정형 데이터를 위해 지리적으로 분산된 데이터 저장소를 대규모로 확장 및 사용하기 쉽습니다.</block>
-  <block id="18bde5c8ee320ea49ba70e35d2239ecf" category="list-text">Amazon Web Services S3(Simple Storage Service) 프로토콜 지원</block>
   <block id="4bf292ec47b1a0a2f20bd493ae425806" category="list-text">하이브리드 클라우드 지원: 정책 기반 ILM(정보 라이프사이클 관리)은 AWS(Amazon Web Services) 및 Microsoft Azure를 비롯한 퍼블릭 클라우드에 오브젝트를 저장합니다. StorageGRID 플랫폼 서비스를 사용하면 퍼블릭 클라우드에 저장된 개체를 콘텐츠 복제, 이벤트 알림 및 메타데이터에서 검색할 수 있습니다.</block>
   <block id="84b564142dcdb248382f6f1fe90469d7" category="list-text">내구성과 가용성을 보장하는 유연한 데이터 보호 복제 및 계층적 삭제 코딩을 사용하여 데이터를 보호할 수 있습니다. 사용되지 않는 데이터와 사용 중인 데이터를 검증하여 장기간 보존에 대한 무결성을 보장합니다.</block>
   <block id="0eb71cf924e8b745d26e24ae56842668" category="list-text">동적 데이터 라이프사이클 관리: 스토리지 비용 관리를 지원합니다. 개체 수준에서 데이터 라이프사이클을 관리하는 ILM 규칙을 만들고 데이터 지역성, 내구성, 성능, 비용 및 보존 시간을 사용자 지정할 수 있습니다.</block>
@@ -26,19 +23,7 @@
   <block id="14c8ef59a622fc7a7db7883604504c4d" category="list-text">CFTC(Commodity Futures Trading Commission): 17 CFR § 1.31(c) - (d) 규제로 상품 선물거래를 규제합니다.</block>
   <block id="b084a731794587a11af81afbc77326a5" category="list-text">무중단 업그레이드 및 유지보수 운영: 업그레이드, 확장, 서비스 해제 및 유지보수 절차 중에도 내용에 대한 액세스 유지</block>
   <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">통합 ID 관리. 사용자 인증을 위해 Active Directory, OpenLDAP 또는 Oracle Directory Service와 통합됩니다. SAML 2.0(Security Assertion Markup Language 2.0) 표준을 사용하여 StorageGRID와 AD FS(Active Directory Federation Services) 간에 인증 및 권한 부여 데이터를 교환하는 SSO(Single Sign-On)를 지원합니다.</block>
-  <block id="2d4f4568ad652ff08727bc044f1373cc" category="section-title">StorageGRID 소프트웨어</block>
-  <block id="30be66bcfef2e328f8fadba5f17d7d53" category="inline-link">StorageGRID 11.8 문서</block>
-  <block id="791d2160592b03552a353b3c990254af" category="list-text"><block ref="791d2160592b03552a353b3c990254af" category="inline-link-rx"></block></block>
-  <block id="0d88061b25d41ea9ebd2a838d2e7d97c" category="inline-link">StorageGRID 11.7 문서</block>
-  <block id="23ba15311ab61c5cbe711a6e2af03fb8" category="list-text"><block ref="23ba15311ab61c5cbe711a6e2af03fb8" category="inline-link-rx"></block></block>
-  <block id="d230fedbcdb888124f0cd7c7b8424de2" category="inline-link">StorageGRID 11.6 문서</block>
-  <block id="361b412f71e99d816037ef3fa0afc82e" category="list-text"><block ref="361b412f71e99d816037ef3fa0afc82e" category="inline-link-rx"></block></block>
-  <block id="ab398ea621033d0dc867640f4114bddd" category="inline-link">StorageGRID 11.5 문서</block>
-  <block id="f1ab3ca97f008a1135bcf43e6777236b" category="list-text"><block ref="f1ab3ca97f008a1135bcf43e6777236b" category="inline-link-rx"></block></block>
-  <block id="cdf357067f64d280c93a14932a48e892" category="inline-link">StorageGRID 11.4 문서</block>
-  <block id="e57f93d05d4a3ec00b3bc61307781a1c" category="list-text"><block ref="e57f93d05d4a3ec00b3bc61307781a1c" category="inline-link-rx"></block></block>
   <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">StorageGRID 어플라이언스</block>
-  <block id="3ac6c44d69f35b6d74f7324d21a94cc3" category="list-text"><block ref="3ac6c44d69f35b6d74f7324d21a94cc3" category="inline-link-rx"></block></block>
   <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">사용자 환경에서 StorageGRID를 활성화하는 방법</block>
   <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">로 이동합니다<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> StorageGRID 환경에서 애플리케이션을 테스트하고 구현하는 방법을 알아보십시오.</block>
   <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">StorageGRID-ENABLE* 설명서 사이트에서는 이 사이트의 제품 설명서를 확장하는 예제 및 설명서로 StorageGRID를 평가하고 통합하는 몇 가지 단계를 설명합니다.</block>
@@ -53,11 +38,32 @@
   <block id="5a76b3354641a0ee1eafa565566eb40c" category="sidebar">소프트웨어를 구성하고 사용합니다</block>
   <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">어플라이언스를 설치하고 유지 관리합니다</block>
   <block id="70f6d24bd76769700db7148daa023203" category="sidebar">통합 및 지원</block>
-  <block id="f28dd420a905feeaad6af72f8f14c37a" category="sidebar">StorageGRID에 대해 자세히 알아보십시오.</block>
   <block id="7bb5d1e21ca0bacc168d63d7155d3755" category="sidebar">StorageGRID 11.8 설명서</block>
-  <block id="b94aedd414153a7e1052ca7ea0520bb9" category="sidebar">StorageGRID 11.8 소프트웨어를 구성하고 사용합니다.</block>
   <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">StorageGRID 어플라이언스를 설치 및 유지 관리합니다.</block>
   <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">StorageGRID를 활성화합니다</block>
   <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">StorageGRID를 테스트, 통합 및 사용하도록 설정합니다.</block>
   <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">StorageGRID 제품 설명서</block>
+  <block id="2903b0229e2eabe7c06f0db799dc3424" category="paragraph">StorageGRID 시스템의 장점은 다음과 같습니다.</block>
+  <block id="6bac41b78c47bbdcd0cafef5d505da74" category="list-text">방대한 확장성을 기반으로 쉽게 사용할 수 있으며 지리적으로 분산된 비정형 데이터용 데이터 저장소.</block>
+  <block id="23970cc35d4e2b1393fc3878424c43dc" category="list-text">Amazon Web Services S3(Simple Storage Service) 프로토콜 지원</block>
+  <block id="65ed462b9954d185b33ec893e0694fde" category="inline-link">StorageGRID 소프트웨어 문서 사이트</block>
+  <block id="a8a77bc8d6a381cf2a2b861ba17e77d7" category="list-text"><block ref="a8a77bc8d6a381cf2a2b861ba17e77d7" category="inline-link-rx"></block></block>
+  <block id="c4b124e5c6e5957ba8d2e961d19ec1a3" category="inline-link">StorageGRID 어플라이언스 문서 사이트</block>
+  <block id="2bbc4d82257413d32fdd3c1fecf7044f" category="list-text"><block ref="2bbc4d82257413d32fdd3c1fecf7044f" category="inline-link-rx"></block></block>
+  <block id="fe7be6f6193a6b19e7ebe5d40be64a0f" category="paragraph">이전 버전의 StorageGRID 소프트웨어에 대한 설명서는 다음 웹 사이트에서 확인할 수 있습니다.</block>
+  <block id="d9419a01ee4fdcd160bf1446e5a481f5" category="list-text"><block ref="d9419a01ee4fdcd160bf1446e5a481f5" category="inline-link-rx"></block></block>
+  <block id="444a66aeef372672e744a05782bffa7c" category="inline-link">StorageGRID 11.7 설명서</block>
+  <block id="a6b4363f6225727f0507281f9ae58717" category="list-text"><block ref="a6b4363f6225727f0507281f9ae58717" category="inline-link-rx"></block></block>
+  <block id="b6a6856979f644f23831092a77a579ae" category="inline-link">StorageGRID 11.6 설명서</block>
+  <block id="ebe15b7f3ab23a21b80c2db319837831" category="list-text"><block ref="ebe15b7f3ab23a21b80c2db319837831" category="inline-link-rx"></block></block>
+  <block id="6d307701f8a2621afa3c68f86b66b9f7" category="inline-link">StorageGRID 11.5 설명서</block>
+  <block id="57e1c48b034af2352e5a69534ab37dd2" category="list-text"><block ref="57e1c48b034af2352e5a69534ab37dd2" category="inline-link-rx"></block></block>
+  <block id="50c142f8f9e19c4c84cb06dbc431b229" category="inline-link">StorageGRID 11.4 설명서 센터</block>
+  <block id="71be9d9e0df7c2f5699834ae68011996" category="list-text"><block ref="71be9d9e0df7c2f5699834ae68011996" category="inline-link-rx"></block></block>
+  <block id="bab03a68f7e57fdecf1481852ac62d80" category="inline-link">StorageGRID 11.3 설명서 센터</block>
+  <block id="d2ca6fb14c69e8ac834f4f43b0f0e9d8" category="list-text"><block ref="d2ca6fb14c69e8ac834f4f43b0f0e9d8" category="inline-link-rx"></block></block>
+  <block id="e58d2e166dc215d59ad9458a7cef9dc8" category="inline-link">StorageGRID 11.2 설명서 센터</block>
+  <block id="dac584c7df1389d2899102bbaee99832" category="list-text"><block ref="dac584c7df1389d2899102bbaee99832" category="inline-link-rx"></block></block>
+  <block id="6ba5a3e836a472999763351a7cad7f18" category="sidebar">StorageGRID에 대해 알아보고 이전 StorageGRID 버전의 문서에 액세스합니다.</block>
+  <block id="e9f9bf9315d711c436dc24b43b0201ea" category="sidebar">최신 StorageGRID 소프트웨어를 설치, 구성 및 유지 관리합니다.</block>
 </blocks>

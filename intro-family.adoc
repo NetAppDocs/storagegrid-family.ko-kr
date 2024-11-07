@@ -23,7 +23,7 @@ StorageGRID는 지리적으로 분산된 이중화, 이기종 노드로 구성�
 
 StorageGRID 시스템의 장점은 다음과 같습니다.
 
-* 비정형 데이터를 위해 지리적으로 분산된 데이터 저장소를 대규모로 확장 및 사용하기 쉽습니다.
+* 방대한 확장성을 기반으로 쉽게 사용할 수 있으며 지리적으로 분산된 비정형 데이터용 데이터 저장소.
 * Amazon Web Services S3(Simple Storage Service) 프로토콜 지원
 * 하이브리드 클라우드 지원: 정책 기반 ILM(정보 라이프사이클 관리)은 AWS(Amazon Web Services) 및 Microsoft Azure를 비롯한 퍼블릭 클라우드에 오브젝트를 저장합니다. StorageGRID 플랫폼 서비스를 사용하면 퍼블릭 클라우드에 저장된 개체를 콘텐츠 복제, 이벤트 알림 및 메타데이터에서 검색할 수 있습니다.
 * 내구성과 가용성을 보장하는 유연한 데이터 보호 복제 및 계층적 삭제 코딩을 사용하여 데이터를 보호할 수 있습니다. 사용되지 않는 데이터와 사용 중인 데이터를 검증하여 장기간 보존에 대한 무결성을 보장합니다.
@@ -56,20 +56,21 @@ StorageGRID 시스템의 장점은 다음과 같습니다.
 
 
 
-== StorageGRID 소프트웨어
+== StorageGRID 설명서
 
-* https://docs.netapp.com/us-en/storagegrid-118/["StorageGRID 11.8 문서"^]
-* https://docs.netapp.com/us-en/storagegrid-117/["StorageGRID 11.7 문서"^]
-* https://docs.netapp.com/us-en/storagegrid-116/["StorageGRID 11.6 문서"^]
-* https://docs.netapp.com/us-en/storagegrid-115/["StorageGRID 11.5 문서"^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["StorageGRID 11.4 문서"^]
+* https://docs.netapp.com/us-en/storagegrid/["StorageGRID 소프트웨어 문서 사이트"^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 어플라이언스 문서 사이트"^]
 
 
+이전 버전의 StorageGRID 소프트웨어에 대한 설명서는 다음 웹 사이트에서 확인할 수 있습니다.
 
-
-== StorageGRID 어플라이언스
-
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 어플라이언스"^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8 설명서"^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7 설명서"^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6 설명서"^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5 설명서"^]
+* https://docs.netapp.com/sgws-114/index.jsp["StorageGRID 11.4 설명서 센터"^]
+* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3 설명서 센터"^]
+* https://docs.netapp.com/sgws-112/index.jsp["StorageGRID 11.2 설명서 센터"^]
 
 
 

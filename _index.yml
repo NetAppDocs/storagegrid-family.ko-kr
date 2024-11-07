@@ -23,12 +23,12 @@ product-family:
   - title: StorageGRID에 대해 자세히 알아보십시오
     icon: "./media/groups_line.png"
     url: intro-family.html
-    summary: StorageGRID에 대해 자세히 알아보십시오.
+    summary: StorageGRID에 대해 알아보고 이전 StorageGRID 버전의 문서에 액세스합니다.
     tags: all, get_started, storagegrid, appliances, enable
-  - title: StorageGRID 11.8 설명서
+  - title: StorageGRID 설명서
     icon: "./media/config_line.png"
-    url: "../storagegrid-118/index.html"
-    summary: StorageGRID 11.8 소프트웨어를 구성하고 사용합니다.
+    url: "../storagegrid/index.html"
+    summary: 최신 StorageGRID 소프트웨어를 설치, 구성 및 유지 관리합니다.
     tags: all, storagegrid
   - title: StorageGRID 어플라이언스
     icon: "./media/icon-onprem.png"
