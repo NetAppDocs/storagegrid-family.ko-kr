@@ -56,25 +56,6 @@ StorageGRID 시스템의 장점은 다음과 같습니다.
 
 
 
-== StorageGRID 설명서
-
-* https://docs.netapp.com/us-en/storagegrid/["StorageGRID 소프트웨어 문서 사이트"^]
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRID 어플라이언스 문서 사이트"^]
-
-
-이전 버전의 StorageGRID 소프트웨어에 대한 설명서는 다음 웹 사이트에서 확인할 수 있습니다.
-
-* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8 설명서"^]
-* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7 설명서"^]
-* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6 설명서"^]
-* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5 설명서"^]
-* https://docs.netapp.com/sgws-114/index.jsp["StorageGRID 11.4 설명서 센터"^]
-* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3 설명서 센터"^]
-* https://docs.netapp.com/sgws-112/index.jsp["StorageGRID 11.2 설명서 센터"^]
-
-
-
-
 == 사용자 환경에서 StorageGRID를 활성화하는 방법
 
 로 이동합니다 https://docs.netapp.com/us-en/storagegrid-enable/index.html["사용자 환경에서 StorageGRID를 활성화하는 방법"^] StorageGRID 환경에서 애플리케이션을 테스트하고 구현하는 방법을 알아보십시오.
