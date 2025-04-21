@@ -25,7 +25,7 @@ product-family:
     url: intro-family.html
     summary: StorageGRID에 대해 알아보고 이전 StorageGRID 버전의 문서에 액세스합니다.
     tags: all, get_started, storagegrid, appliances, enable
-  - title: StorageGRID 설명서
+  - title: StorageGRID 소프트웨어
     icon: "./media/config_line.png"
     url: "../storagegrid/index.html"
     summary: 최신 StorageGRID 소프트웨어를 설치, 구성 및 유지 관리합니다.
